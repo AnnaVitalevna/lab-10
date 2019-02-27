@@ -1,6 +1,8 @@
-javac lab10.java
-
-chcp 1251
-
-java lab10
+javac -encoding UTF-8 Lab10.java
+java Lab10
 pause
+
+
+
+
+
