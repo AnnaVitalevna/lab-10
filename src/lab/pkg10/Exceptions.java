@@ -2,7 +2,8 @@ package lab.pkg10;
 public class Exceptions {
 
     public static void Arif_ExC() {
-        int d, а;
+        int d;
+        int а;
         try {
             d = 0;
             а = 69 / d;
