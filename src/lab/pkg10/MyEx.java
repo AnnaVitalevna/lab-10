@@ -18,6 +18,6 @@ public class MyEx extends Exception {
     }
 
     public String toString(){
-        return "Собственное исключение MyException\n    Уровень опасности: " + getDangerLevel();
+        return throwDate + "Собственное исключение MyException\n    Уровень опасности: " + getDangerLevel();
     }
 }
